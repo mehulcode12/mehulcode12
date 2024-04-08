@@ -38,7 +38,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mehulcode12/mehulcode12/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -50,15 +49,17 @@
   <a href="https://www.youtube.com/@numpi1208" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="instagram.com/mai_hu_l" target="_blank">
+  <a href="https://www.instagram.com/mai_hu_l" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mehulligade12@gmail.com" target="_blank">
+  <a href="mailto:mehulligade12@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/ mehulcode12" target="_blank">
+  <a href="https://www.linkedin.com/in/ mehulcode12" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/mehulcode12/mehulcode12/output/snake.svg" alt="Snake animation" />
