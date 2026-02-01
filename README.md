@@ -62,4 +62,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mehulcode12/mehulcode12/output/snake.svg" alt="Snake animation" />
