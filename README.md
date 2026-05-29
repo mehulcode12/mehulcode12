@@ -1,5 +1,7 @@
 <div align="center">
 
+# Hi, I'm Mehul Ligade 👋
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Solution+Architect;Building+AI+that+works+in+production;Multi-Agent+Systems+%7C+Edge+Inference;Voice+AI+%7C+RAG+Pipelines+%7C+MCP)](https://git.io/typing-svg)
 
 <br/>
@@ -106,13 +108,10 @@ I write about productionizing AI, solving edge cases, and moving beyond basic Ge
 
 ---
 
-### 🎵 Currently Soundtracking My Deep Focus Sessions
+### ⚡ Recent Engineering Activity
 
-<div align="center">
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://spotify-readme.vercel.app/api?type=horizontal" alt="Spotify Now Playing" width="100%" max-width="500px" />
-  </a>
-</div>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br/>
 
