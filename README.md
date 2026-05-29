@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Solution+Architect;Building+AI+that+works+in+production;Multi-Agent+Systems+%7C+Edge+Inference;Voice+AI+%7C+RAG+Pipelines+%7C+MCP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Solution+Architect;Building+AI+that+works+in+production;Multi-Agent+Systems+%7C+Edge+Inference;Voice+AI+%7C+RAG+Pipelines+%7C+MCP)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,10 +34,7 @@ I build production AI systems where something real is at stake. Tight budgets, n
 
 Standard LLM APIs take 3 to 5 seconds. That makes natural phone conversation impossible. Built a custom 3-stage inference architecture — hitting under 500ms end to end. Live in production at 99.7% success rate.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
 ---
 
@@ -48,26 +45,14 @@ Standard LLM APIs take 3 to 5 seconds. That makes natural phone conversation imp
 
 Canvas engine that gives AI agents a programmatic drawing hand. Every shape gets a UUID so agents create, update, animate, or delete elements across sessions and multi-step operations. Plugin architecture across 13 independent ES modules. 111 weekly downloads at peak.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" />
 
 ---
 
 ## Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&workflow_permissions=true&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!-- Uniform HTML formatting prevents the markdown parser from breaking -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 ---
 
@@ -86,29 +71,30 @@ I write about productionizing AI, solving edge cases, and moving beyond basic Ge
 ## GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehulcode12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mehul's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulcode12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulcode12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mehul's GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulcode12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190" />
 </div>
 
 <br/>
 
 ### 📊 3D Isometric Contributions Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg">
-  <img src="profile-3d-contrib/profile-gitblock.svg" alt="Mehul's 3D Contributions" width="100%">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg">
+    <img src="profile-3d-contrib/profile-gitblock.svg" alt="Mehul's 3D Contributions" width="100%">
+  </picture>
+</div>
 
 ---
 
 ## Beyond code
 
-* 📖 Authored a chapter in a published book on Artificial Intelligence <!-- -->
-* 📜 Filed 6 copyrights with 1 patent application in process <!-- -->
-* 🏆 Won national-level project competitions 3 times <!-- -->
-* 👥 Mentored 20+ students on AI implementation <!-- -->
+* 📖 Authored a chapter in a published book on Artificial Intelligence
+* 📜 Filed 6 copyrights with 1 patent application in process
+* 🏆 Won national-level project competitions 3 times
+* 👥 Mentored 20+ students on AI implementation
 
 ---
 
@@ -122,9 +108,11 @@ I write about productionizing AI, solving edge cases, and moving beyond basic Ge
 
 ### 🎵 Currently Soundtracking My Deep Focus Sessions
 
-<a href="https://github.com/novatorem/novatorem">
-  <img src="https://spotify-readme.vercel.app/api?type=horizontal" alt="Spotify Now Playing" width="100%" max-width="500px" />
-</a>
+<div align="center">
+  <a href="https://github.com/novatorem/novatorem">
+    <img src="https://spotify-readme.vercel.app/api?type=horizontal" alt="Spotify Now Playing" width="100%" max-width="500px" />
+  </a>
+</div>
 
 <br/>
 
@@ -132,6 +120,6 @@ I write about productionizing AI, solving edge cases, and moving beyond basic Ge
 
 *The problems I enjoy most are the ones where the standard solution doesn't exist yet.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehulcode12&color=6C63FF&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=mehulcode12&color=6C63FF&style=flat-square" alt="Profile Views" />
 
 </div>
