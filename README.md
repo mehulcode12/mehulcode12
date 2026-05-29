@@ -37,7 +37,7 @@ Standard LLM APIs take 3 to 5 seconds. That makes natural phone conversation imp
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
 ---
 
@@ -56,14 +56,14 @@ Canvas engine that gives AI agents a programmatic drawing hand. Every shape gets
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&workflow_permissions=true&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -71,24 +71,44 @@ Canvas engine that gives AI agents a programmatic drawing hand. Every shape gets
 
 ---
 
-## GitHub Stats
+## Technical Writing 
+
+I write about productionizing AI, solving edge cases, and moving beyond basic GenAI wrappers on **[Medium](https://medium.com/@mehulligade12)** & **Towards AI**.
+
+<!-- BLOG-POST-LIST:START -->
+* 🧠 [This Is Why Your Model Hallucinates (And You Blame the Wrong Thing)](https://pub.towardsai.net/this-is-why-your-model-hallucinates-and-you-blame-the-wrong-thing-m008-680e53dd2fca) — *Techniques for arithmetic validation and structural grounding.*
+* ⚙️ [How to Think Like a Prompt Engineer (Not Just Write Better Prompts)](https://pub.towardsai.net/how-to-think-like-a-prompt-engineer-not-just-write-better-prompts-m007-ada649e26c8f) — *Replacing AI judgment with algorithmic protocols in messy real-world extraction.*
+* 📖 [What Is Machine Learning Really? A Human Guide to the Most Powerful Idea in Tech](https://pub.towardsai.net/what-is-machine-learning-really-a-human-guide-to-the-most-powerful-idea-in-tech-m002-de6861831eef) — *Explaining ML optimization vs memorization.*
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## GitHub Stats & Metrics
 
 <div align="center">
-
-![Mehul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehulcode12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulcode12&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulcode12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mehul's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulcode12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
+
+<br/>
+
+### 📊 3D Isometric Contributions Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg">
+  <img src="profile-3d-contrib/profile-gitblock.svg" alt="Mehul's 3D Contributions" width="100%">
+</picture>
 
 ---
 
 ## Beyond code
 
-*   Authored a chapter in a published book on Artificial Intelligence
-*   Filed 6 copyrights with 1 patent application in process
-*   Won national-level project competitions 3 times
-*   Mentored 20+ students on AI implementation
+* 📖 Authored a chapter in a published book on Artificial Intelligence <!-- -->
+* 📜 Filed 6 copyrights with 1 patent application in process <!-- -->
+* 🏆 Won national-level project competitions 3 times <!-- -->
+* 👥 Mentored 20+ students on AI implementation <!-- -->
 
 ---
 
@@ -99,6 +119,14 @@ Canvas engine that gives AI agents a programmatic drawing hand. Every shape gets
 > 💬 Drop me an [email](mailto:mehulligade12@gmail.com) or find me on [LinkedIn](https://linkedin.com/in/mehulcode12).
 
 ---
+
+### 🎵 Currently Soundtracking My Deep Focus Sessions
+
+<a href="https://github.com/novatorem/novatorem">
+  <img src="https://spotify-readme.vercel.app/api?type=horizontal" alt="Spotify Now Playing" width="100%" max-width="500px" />
+</a>
+
+<br/>
 
 <div align="center">
 
