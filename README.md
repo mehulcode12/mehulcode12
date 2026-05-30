@@ -70,9 +70,10 @@ I write about productionizing AI, solving edge cases, and moving beyond basic Ge
 ## GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehulcode12&show_icons=true&theme=tokyonight&hide_border=true" alt="Mehul's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulcode12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulcode12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Mehul's GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulcode12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" height="190" />
 </div>
+
 <br/>
 
 ### 📊 3D Isometric Contributions Graph
