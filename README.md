@@ -63,9 +63,7 @@ Canvas engine that gives AI agents a programmatic drawing hand. Every shape gets
 
 I write about productionizing AI, solving edge cases, and moving beyond basic GenAI wrappers on **[Medium](https://medium.com/@mehulligade12)** & **Towards AI**.
 
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->* 🧠 [Fine-Tuning is Dead: Why Context Orchestration Won in 2026 | M009](https://pub.towardsai.net/fine-tuning-is-dead-why-context-orchestration-won-in-2026-m009-ef07112c437c?source=rss-8db515515ff4------2) — *Latest technical publication.** 🧠 [I built a tool that reads actual code diffs and generates multilingual changelogs.](https://medium.com/@mehulligade12/i-built-a-tool-that-reads-actual-code-diffs-and-generates-multilingual-changelogs-e2eb2be07f63?source=rss-8db515515ff4------2) — *Latest technical publication.** 🧠 [This Is Why Your Model Hallucinates &lpar;And You Blame the Wrong Thing&rpar; | M008](https://pub.towardsai.net/this-is-why-your-model-hallucinates-and-you-blame-the-wrong-thing-m008-680e53dd2fca?source=rss-8db515515ff4------2) — *Latest technical publication.*<!-- BLOG-POST-LIST:END -->
 
 ---
 
