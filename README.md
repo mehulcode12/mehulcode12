@@ -61,9 +61,9 @@ Canvas engine that gives AI agents a programmatic drawing hand. Every shape gets
 
 ## Technical Writing 
 
-I write about productionizing AI, solving edge cases, and moving beyond basic GenAI wrappers on **[Medium](https://medium.com/@mehulligade12)** & **Towards AI**.
+I write about productionizing AI, solving edge cases, and moving beyond basic GenAI wrappers.
 
-<!-- BLOG-POST-LIST:START -->* 🧠 [How RAG Actually Finds Answers &lpar;Part 2&rpar;: HNSW, IVF, BM25, Hybrid Search and Re-Ranking | M011 |…](https://pub.towardsai.net/how-rag-actually-finds-answers-part-2-hnsw-ivf-bm25-hybrid-search-and-re-ranking-m011-e789f977c99b?source=rss-8db515515ff4------2) — *Latest technical publication.** 🧠 [RAG Explained From Scratch &lpar;Part 1&rpar;: How PDFs Become Searchable Knowledge for AI | M010 | Mehul…](https://pub.towardsai.net/rag-explained-from-scratch-part-1-how-pdfs-become-searchable-knowledge-for-ai-m010-mehul-4edff62f5aeb?source=rss-8db515515ff4------2) — *Latest technical publication.** 🧠 [Fine-Tuning is Dead: Why Context Orchestration Won in 2026 | M009](https://pub.towardsai.net/fine-tuning-is-dead-why-context-orchestration-won-in-2026-m009-ef07112c437c?source=rss-8db515515ff4------2) — *Latest technical publication.*<!-- BLOG-POST-LIST:END -->
+[![Mehul Ligade Medium](https://github-readme-medium.vercel.app/?username=mehulligade12&limit=5&bg=0d1117&text=c9d1d9)](https://medium.com/@mehulligade12)
 
 ---
 
