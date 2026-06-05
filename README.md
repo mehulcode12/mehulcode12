@@ -63,7 +63,7 @@ Canvas engine that gives AI agents a programmatic drawing hand. Every shape gets
 
 I write about productionizing AI, solving edge cases, and moving beyond basic GenAI wrappers.
 
-[![Mehul Ligade Medium](https://github-readme-medium.vercel.app/?username=mehulligade12&limit=3&bg=0d1117&text=c9d1d9)](https://medium.com/@mehulligade12)
+[![Mehul Ligade Medium](https://github-readme-medium.vercel.app/?username=mehulligade12&limit=3&bg=ffffff&text=ffffff)](https://medium.com/@mehulligade12)
 
 ---
 
