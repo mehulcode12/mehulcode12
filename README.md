@@ -23,16 +23,16 @@ I build production AI systems where something real is at stake. Tight budgets, n
 
 | | |
 |---|---|
-| **94% AI cost reduction** | Rebuilt inference pipeline from scratch, Rs. 350 to Rs. 20 per unit in production |
+| **94% AI cost reduction** | Rebuilt AI inference pipeline from scratch, 94% cost reduction + improved quality |
 | **Rs. 30L+ saved annually** | Multi-agent automation pipelines replacing entirely manual workflows |
-| **Voice AI under 500ms** | Real-time AI agent on live phone calls, custom Cerebras CS-2 inference architecture |
+| **Voice AI Telephony under 500ms** | Real-time AI agent on live phone calls, custom Cerebras CS-2 inference architecture |
 | **Full LLM offline in 1GB** | Quantised LLM on-device on budget Android hardware, zero cloud dependency |
 
 ---
 
 ## Projects
 
-### 🎙️ [Aurora](https://github.com/mehulcode12/aurora) — Real-Time Voice AI Agent
+### 🎙️ [Aurora](https://github.com/mehulcode12/aurora) — Real-Time Voice AI Agent Telephony
 
 Standard LLM APIs take 3 to 5 seconds. That makes natural phone conversation impossible. Built a custom 3-stage inference architecture — hitting under 500ms end to end. Live in production at 99.7% success rate.
 
