@@ -164,7 +164,7 @@ Writing about productionizing AI, solving edge cases, and moving beyond GenAI wr
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/mehulcode12/agentdraw-canvas/pull/1) in [mehulcode12/agentdraw-canvas](https://github.com/mehulcode12/agentdraw-canvas)
+1. 🎉 Merged PR [#2](https://github.com/mehulcode12/mehulcode12/pull/2) in [mehulcode12/mehulcode12](https://github.com/mehulcode12/mehulcode12)
 <!--END_SECTION:activity-->
 
 </details>
