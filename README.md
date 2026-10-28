@@ -88,6 +88,22 @@ Writing about productionizing AI, solving edge cases, and moving beyond GenAI wr
 
 <br/>
 
+## ✍️ Latest from Medium
+
+> Auto-fetches from my [Medium profile](https://medium.com/@mehulligade12) — updates every time I publish.
+
+<div align="center">
+
+[![Article 1](https://github-readme-medium-recent-article.vercel.app/medium/@mehulligade12/0)](https://medium.com/@mehulligade12)
+
+[![Article 2](https://github-readme-medium-recent-article.vercel.app/medium/@mehulligade12/1)](https://medium.com/@mehulligade12)
+
+[![Article 3](https://github-readme-medium-recent-article.vercel.app/medium/@mehulligade12/2)](https://medium.com/@mehulligade12)
+
+</div>
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
