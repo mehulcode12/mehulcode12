@@ -25,7 +25,7 @@ I build production AI systems where something real is at stake — tight budgets
 
 | &nbsp; | Achievement | Impact |
 |:---:|---|---|
-| 💰 | **94% AI cost reduction** | ₹350 → ₹20 per session · 50,000+ students served |
+| 💰 | **94% AI cost reduction** | 5,00,000+ students served |
 | 🤖 | **₹30L+ saved annually** | Multi-agent pipelines replacing manual workflows |
 | 📞 | **Voice AI under 500ms** | Live telephony · custom Cerebras CS-2 architecture |
 | 📱 | **Full LLM offline in 1 GB** | Quantised on-device model · zero cloud dependency |
