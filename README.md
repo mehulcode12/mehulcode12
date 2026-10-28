@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hi, I'm Mehul Ligade 👋
+# Mehul Ligade — AI Engineer & Solution Architect
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Solution+Architect;Building+AI+that+works+in+production;Multi-Agent+Systems+%7C+Edge+Inference;Voice+AI+%7C+RAG+Pipelines+%7C+MCP)](https://git.io/typing-svg)
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-mehulcode12.github.io-6C63FF?style=for-the-badge)](https://mehulcode12.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehulcode12)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehulcode12)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentdraw-canvas)
@@ -17,20 +18,43 @@
 
 I build production AI systems where something real is at stake. Tight budgets, no internet, live phone calls — constraints that make the standard solution impossible are where I do my best work.
 
+**Keywords:** AI cost optimization · voice AI telephony · multi-agent systems · on-device LLM inference · RAG pipelines · generative AI · applied machine learning · AI solution architect · Python · LangChain · FastAPI
+
 ---
 
-## What I've shipped
+## What I've Shipped
 
-| | |
+| Achievement | Impact |
 |---|---|
-| **94% AI cost reduction** | Rebuilt AI inference pipeline from scratch, 94% cost reduction + improved quality |
-| **Rs. 30L+ saved annually** | Multi-agent automation pipelines replacing entirely manual workflows |
-| **Voice AI Telephony under 500ms** | Real-time AI agent on live phone calls, custom Cerebras CS-2 inference architecture |
-| **Full LLM offline in 1GB** | Quantised LLM on-device on budget Android hardware, zero cloud dependency |
+| **94% AI cost reduction** | Rebuilt AI inference pipeline from scratch — cost dropped from ₹350 → ₹20 per session, serving 50,000+ students |
+| **₹30L+ saved annually** | Multi-agent automation pipelines replacing entirely manual workflows |
+| **Voice AI telephony under 500ms** | Real-time AI agent on live phone calls with custom Cerebras CS-2 inference architecture |
+| **Full LLM offline in 1 GB** | Quantised LLM on-device on budget Android hardware, zero cloud dependency |
 
 ---
 
-## Projects
+## Open Source Projects
+
+### 🎬 [vid2anim](https://github.com/mehulcode12/vid2anim) — Video to 3D Character Animation (Open Source)
+
+Open-source Python tool that converts any video clip into production-ready 3D character animation using AI-powered pose estimation and universal skeleton retargeting. Supports Mixamo, VRM, Ready Player Me, Blender Rigify, and Unreal Engine Mannequin rigs.
+
+**Key features:**
+- **Multi-engine AI pose estimation** — MediaPipe, DWPose, GVHMR
+- **Universal skeleton retargeter** — works across all major 3D rig formats
+- **Natural 5-digit hand tracking** — independent finger joint articulation
+- **Zero gimbal lock** — continuous quaternion SLERP, no bone pop flips
+- **Blender 3D Bridge add-on** — one-click integration into Blender pipelines
+- **Web Studio UI** — browser-based character preview with Three.js 3D player
+
+```bash
+pip install -e .
+vid2anim run --input your_video.mp4 --model your_character.glb --output animated.glb
+```
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" /> <img src="https://img.shields.io/badge/Blender-EA7600?style=flat-square&logo=blender&logoColor=white" alt="Blender" /> <img src="https://img.shields.io/badge/MIT_License-green?style=flat-square" alt="MIT License" />
+
+---
 
 ### 🎙️ [Aurora](https://github.com/mehulcode12/aurora) — Real-Time Voice AI Agent Telephony
 
@@ -51,15 +75,15 @@ Canvas engine that gives AI agents a programmatic drawing hand. Every shape gets
 
 ---
 
-## Stack
+## Tech Stack
 
 <!-- Uniform HTML formatting prevents the markdown parser from breaking -->
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 ---
 
-## Technical Writing 
+## Technical Writing
 
 I write about productionizing AI, solving edge cases, and moving beyond basic GenAI wrappers.
 
@@ -70,8 +94,8 @@ I write about productionizing AI, solving edge cases, and moving beyond basic Ge
 ## GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehulcode12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Mehul's GitHub Stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulcode12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Top Languages" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehulcode12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Mehul Ligade GitHub Stats" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulcode12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" alt="Mehul Ligade Top Languages" height="190" />
 </div>
 
 <br/>
@@ -88,7 +112,7 @@ I write about productionizing AI, solving edge cases, and moving beyond basic Ge
 
 ---
 
-## Beyond code
+## Beyond Code
 
 * 📖 Authored a chapter in a published book on Artificial Intelligence
 * 📜 Filed 6 copyrights with 1 patent application in process
@@ -101,7 +125,8 @@ I write about productionizing AI, solving edge cases, and moving beyond basic Ge
 
 > **I'm currently open to new opportunities and consulting.** If you are dealing with heavy optimization problems, architecture bottlenecks, or need custom multi-agent rollouts, let's talk.
 > 
-> 💬 Drop me an [email](mailto:mehulligade12@gmail.com) or find me on [LinkedIn](https://linkedin.com/in/mehulcode12).
+> 💬 Drop me an [email](mailto:mehulligade12@gmail.com) or find me on [LinkedIn](https://linkedin.com/in/mehulcode12).  
+> 🌐 See my full portfolio at **[mehulcode12.github.io](https://mehulcode12.github.io)**
 
 ---
 
