@@ -164,7 +164,7 @@ Writing about productionizing AI, solving edge cases, and moving beyond GenAI wr
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mehulcode12/mehulcode12/pull/2) in [mehulcode12/mehulcode12](https://github.com/mehulcode12/mehulcode12)
+1. 💪 Opened PR [#34](https://github.com/crafter-station/Muelle/pull/34) in [crafter-station/Muelle](https://github.com/crafter-station/Muelle)
 <!--END_SECTION:activity-->
 
 </details>
