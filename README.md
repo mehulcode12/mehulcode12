@@ -164,7 +164,7 @@ Writing about productionizing AI, solving edge cases, and moving beyond GenAI wr
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/crafter-station/Muelle/pull/34) in [crafter-station/Muelle](https://github.com/crafter-station/Muelle)
+1. 🗣 Commented on [#42](https://github.com/crafter-station/Muelle/pull/42#issuecomment-7085202314) in [crafter-station/Muelle](https://github.com/crafter-station/Muelle)
 <!--END_SECTION:activity-->
 
 </details>
