@@ -164,7 +164,7 @@ Writing about productionizing AI, solving edge cases, and moving beyond GenAI wr
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/crafter-station/Muelle/pull/42#issuecomment-7092956840) in [crafter-station/Muelle](https://github.com/crafter-station/Muelle)
+1. 💪 Opened PR [#20117](https://github.com/OpenHands/OpenHands/pull/20117) in [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)
 <!--END_SECTION:activity-->
 
 </details>
